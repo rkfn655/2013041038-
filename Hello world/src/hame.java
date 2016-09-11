@@ -6,6 +6,7 @@ public class hame {
 System.out.println("Hello world");
 System.out.println("Hello jaegu");
 System.out.println("Hello doyoun2");
+System.out.println("earth's end dancehall");
 	}
 
 }
